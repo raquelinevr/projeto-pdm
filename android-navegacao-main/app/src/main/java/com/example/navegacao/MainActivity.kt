@@ -194,7 +194,7 @@ fun TelaPrincipal(
         Text(text = "Bem-vindo à Tela Principal", fontSize = 24.sp, color = MaterialTheme.colorScheme.primary)
         Spacer(modifier = Modifier.height(16.dp))
 
-        // Card 1
+       
         Card(
             colors = CardDefaults.cardColors(
                 containerColor = MaterialTheme.colorScheme.surfaceVariant
@@ -213,7 +213,7 @@ fun TelaPrincipal(
 
         Spacer(modifier = Modifier.height(16.dp))
 
-        // Card 2
+        
         Card(
             colors = CardDefaults.cardColors(
                 containerColor = MaterialTheme.colorScheme.surfaceVariant
